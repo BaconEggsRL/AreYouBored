@@ -11,7 +11,7 @@ An interactive web application that helps users deal with boredom through a seri
 
 ## Live Demo
 
-Visit the live site at: [https://yourusername.github.io/are-you-bored](https://yourusername.github.io/are-you-bored)
+Visit the live site at: [https://baconeggsrl.github.io/AreYouBored/](https://baconeggsrl.github.io/AreYouBored/)
 
 ## Local Development
 
